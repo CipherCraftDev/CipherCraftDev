@@ -13,8 +13,12 @@ I'm Aliza, a versatile developer specializing in the MERN stack for web apps and
 
 ## Let's Connect 🚀
 
-You can find me on [LinkedIn](#) and [GitHub](#). Feel free to reach out for collaboration opportunities or just to say hello!
+You can find me on:
+- [Twitter](https://twitter.com/ofsyedbloodline)
+- [LinkedIn](https://www.linkedin.com/in/alizatahir)
+- [Instagram](https://www.instagram.com/snapliz_?igshid=MTZzNXVmYTFxYWplNg==)
+- Email: syedaalizazahra19@gmail.com
+
+Feel free to reach out for collaboration opportunities or just to say hello!
 
 Happy coding! 💻✨
-
---->
