@@ -66,6 +66,6 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" alt="Aliza's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=cipherCraftDev&show_icons=true&theme=dark" alt="Aliza's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipherCraftDev&layout=compact&theme=dark" alt="Top Langs">
 </p>
